@@ -13,4 +13,4 @@ The script downloads OpenStreetMap data for Serbia, extracts the municipality of
 
 ## Map Output
 
-![Map of Vračar]![Image](https://github.com/user-attachments/assets/0d686248-99af-4801-856f-904baa858582)
+Map of Vračar![Image](https://github.com/user-attachments/assets/0d686248-99af-4801-856f-904baa858582)
