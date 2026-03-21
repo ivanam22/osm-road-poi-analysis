@@ -13,4 +13,4 @@ The script downloads OpenStreetMap data for Serbia, extracts the municipality of
 
 ## Map Output
 
-![Map of Vračar](osm-road-poi-analysis/commit/map_output.jpg)
+![Map of Vračar](images/map_output.jpg)
