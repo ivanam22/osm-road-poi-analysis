@@ -13,7 +13,7 @@ This project implements a complete GIS workflow for downloading, processing, and
 ##  Technologies
 Python (ArcPy), OpenStreetMap, ArcGIS Pro, GIS spatial analysis
 
-##  Map Output
+##  Output
 - Processed GIS layers for the selected area
 - Road network statistics by type
 - Categorized POI dataset
