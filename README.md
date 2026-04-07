@@ -1,8 +1,5 @@
 # OSM Road and POI Analysis – Vračar
 
-This project focuses on working with OpenStreetMap data to explore and analyze urban infrastructure using Python and GIS tools.
-
-##  Project Overview
 This project implements a complete GIS workflow for downloading, processing, and analyzing spatial data. The focus is on extracting and analyzing urban infrastructure, with emphasis on road networks and points of interest.
 
 ##  Key Features
