@@ -1,15 +1,26 @@
 # OSM Road and POI Analysis – Vračar
 
-Automated geospatial data extraction and analysis using OpenStreetMap data.
+This project focuses on working with OpenStreetMap data to explore and analyze urban infrastructure using Python and GIS tools.
 
-##  Description
-The script downloads OpenStreetMap data for Serbia, extracts the municipality of Vračar, and performs analysis of road networks and points of interest.
+##  Project Overview
+This project implements a complete GIS workflow for downloading, processing, and analyzing spatial data. The focus is on extracting and analyzing urban infrastructure, with emphasis on road networks and points of interest.
+
+##  Key Features
+Automated download and extraction of OSM data
+Clipping and filtering data based on administrative boundaries
+Road network analysis (length calculation, classification, and distribution)
+Extraction and basic categorization of POIs
+Data cleaning and attribute enhancement
+Visualization in a GIS environment
 
 ##  Technologies
-Python, OpenStreetMap, ArcGIS Pro, GIS spatial analysis
+Python (ArcPy), OpenStreetMap, ArcGIS Pro, GIS spatial analysis
 
 ##  Map Output
-Map of Vračar 
+Processed GIS layers for the selected area
+Road network statistics by type
+Categorized POI dataset
+Thematic map
 
 ![Image](https://github.com/user-attachments/assets/0d686248-99af-4801-856f-904baa858582)
 
