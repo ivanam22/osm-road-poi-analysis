@@ -7,10 +7,15 @@ This project implements a complete GIS workflow for downloading, processing, and
 
 ##  Key Features
 Automated download and extraction of OSM data
+
 Clipping and filtering data based on administrative boundaries
+
 Road network analysis (length calculation, classification, and distribution)
+
 Extraction and basic categorization of POIs
+
 Data cleaning and attribute enhancement
+
 Visualization in a GIS environment
 
 ##  Technologies
