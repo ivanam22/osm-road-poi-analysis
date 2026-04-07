@@ -10,14 +10,14 @@ This project implements a complete GIS workflow for downloading, processing, and
 - Data cleaning and attribute enhancement
 - Visualization in a GIS environment
 
-##  Technologies
-Python (ArcPy), OpenStreetMap, ArcGIS Pro, GIS spatial analysis
-
 ##  Output
 - Processed GIS layers for the selected area
 - Road network statistics by type
 - Categorized POI dataset
 - Thematic map
+
+##  Technologies
+Python (ArcPy), OpenStreetMap, ArcGIS Pro, GIS spatial analysis
 
 ![Image](https://github.com/user-attachments/assets/0d686248-99af-4801-856f-904baa858582)
 
