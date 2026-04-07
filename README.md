@@ -19,5 +19,6 @@ This project implements a complete GIS workflow for downloading, processing, and
 ##  Technologies
 Python (ArcPy), OpenStreetMap, ArcGIS Pro, GIS spatial analysis
 
+
 ![Image](https://github.com/user-attachments/assets/0d686248-99af-4801-856f-904baa858582)
 
