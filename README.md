@@ -23,8 +23,11 @@ Python (ArcPy), OpenStreetMap, ArcGIS Pro, GIS spatial analysis
 
 ##  Map Output
 Processed GIS layers for the selected area
+
 Road network statistics by type
+
 Categorized POI dataset
+
 Thematic map
 
 ![Image](https://github.com/user-attachments/assets/0d686248-99af-4801-856f-904baa858582)
