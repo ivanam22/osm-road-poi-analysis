@@ -24,3 +24,5 @@ Spatial data processing, infrastructure analysis, automation, data pipelines
 
 ![Image](https://github.com/user-attachments/assets/0d686248-99af-4801-856f-904baa858582)
 
+## Motivation
+The goal of this project is to demonstrate how GIS and Python can be used to automate processing of large spatial datasets and extract meaningful information about urban infrastructure systems.
